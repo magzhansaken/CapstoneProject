@@ -1,0 +1,6 @@
+com\example\capstone\pizza_delivery_service\PizzaDeliveryServiceApplicationTests.class
+com\example\capstone\pizza_delivery_service\RegisterCustomerUnitTest.class
+com\example\capstone\pizza_delivery_service\CustomerIntegrationTest.class
+com\example\capstone\pizza_delivery_service\FillOrderCartAndSaveUnitTest.class
+com\example\capstone\pizza_delivery_service\CreateDishesUnitTest.class
+com\example\capstone\pizza_delivery_service\AuthenticationTest.class
